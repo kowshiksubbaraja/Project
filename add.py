@@ -3,4 +3,4 @@ def sum(a,b):
 
 a = int(input())
 b = int(input())
-sum(a,b)        #summm
+sum(a,b)        #summm of two numbers from kowshik
